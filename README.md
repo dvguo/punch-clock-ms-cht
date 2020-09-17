@@ -3,10 +3,23 @@
 
 This is a full stack poject developed by David Guo for Microsoft Taiwan and its client ChungHwa Telecom. The closed-source application was designed for ChungHwa Telecom's small to medium business clients that have the size of under 30 employees. The system will help these small businesses to integrate their workflow, ranging from online meetings, group chat, to daily clock in, all onto the Microsoft Teams platform.
 
-Since the system is only devdeloped for ChungHwa Telecom's clients, below are some brief demo for Punch Clock's basic functionalities.
+# Technologies
+
+- Front end: React.js
+- Back end: Node.js/Express
+- Database: Azure Database for PostgreSQL
+- Deployment: Azure App Service
+- Authentication: Azure Active Directory
 
 # Demo
+
+Since the system is only devdeloped for ChungHwa Telecom's clients, below are some brief demo to showcase Punch Clock's basic functionalities.
+
+There are two separate panels deisgned for employees and admins. Depending one one's role, the system will only show the necessary functions and infromation for a easy-to-use and clean user experience.
+
 ## Employee Panel
+
+For employee's view there's only three possible action: punch in, punch out, and punch late. 
 
 ### Login
 ![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif1.gif)
