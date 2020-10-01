@@ -22,27 +22,27 @@ There are two separate panels deisgned for employees and admins. Depending one o
 For employee's view there's only three possible action: punch in, punch out, and punch late. 
 
 ### Login
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif1.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif1.gif)
 ### Punch In
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif2.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif2.gif)
 ### Punch Out
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif3.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif3.gif)
 ### Punch Late
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif4.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif4.gif)
 
 ## Admin Panel
 
 ### Search Employee Records
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif5.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif5.gif)
 ### Update Record
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif6.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif6.gif)
 ### Add Record
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif7.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif7.gif)
 ### Add/Remove Admin
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif8.gif)
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif11.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif8.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif9.gif)
 ### Set Lunch Hour
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif9.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif10.gif)
 ### Set Minimum Working Hour
-![](https://github.com/dvguo/punch-clock/blob/master/documentation/gifs/readmegif10.gif)
+![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif11.gif)
 
