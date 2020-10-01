@@ -1,7 +1,7 @@
 # Punch Clock
 ### A cloud based time clock system that helps small businesses to integrate their daily workflow with Microsoft Teams and Azure.
 
-This is a full stack poject developed by David Guo for Microsoft Taiwan and its client ChungHwa Telecom. The closed-source application was designed for ChungHwa Telecom's small to medium business clients that have the size of under 30 employees. The system will help these small businesses to integrate their workflow, ranging from online meetings, group chat, to daily clock in, all onto the Microsoft Teams platform.
+This is a full stack poject designed and developed by David Guo for Microsoft Taiwan and its client ChungHwa Telecom. The closed-source application was designed for ChungHwa Telecom's small to medium business clients that have the size of under 30 employees. The system will help these small businesses to integrate their workflow, ranging from online meetings, group chat, to daily clock in, all onto the Microsoft Teams platform.
 
 # Technologies
 
@@ -19,7 +19,7 @@ There are two separate panels deisgned for employees and admins. Depending one o
 
 ## Employee Panel
 
-For employee's view there's only three possible action: punch in, punch out, and punch late. 
+For employee's view there are only three possible actions: punch in, punch out, and punch late. 
 
 ### Login
 ![](https://github.com/dvguo/punch-clock-ms-cht/blob/master/readmegif1.gif)
